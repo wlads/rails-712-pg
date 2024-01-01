@@ -1,0 +1,2 @@
+class ApplicationFeeRate < ApplicationRecord
+end
